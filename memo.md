@@ -22,3 +22,5 @@
 
 - gitignore 설정 - gitignore python 검색
   https://github.com/nomadcoders/airbnb-clone/commit/99fbc37feec152ce345bfa40a431da7861974365
+
+#ddd
