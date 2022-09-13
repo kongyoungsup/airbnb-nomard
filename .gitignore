@@ -126,3 +126,6 @@ dmypy.json
 
 # Mac
 .DS_Store 
+
+# 업로드 폴더
+uploads/
